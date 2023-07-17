@@ -7,7 +7,7 @@ My name is **Gozo Takudzwa**
 ### **In Short**
 
 - [x] Open Source Advocate
-- [x] Full Stack React Native Developer
+- [x] Full Stack React Developer (React & React Native)
 - [x] Machine Learning Expert
 - [x] Award Winning Bathroom singer :laughing: lol
 
