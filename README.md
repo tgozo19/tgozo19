@@ -9,6 +9,7 @@ My name is **Gozo Takudzwa**
 - [x] Open Source Advocate
 - [x] Full Stack React Developer (React & React Native)
 - [x] Machine Learning Expert
+- [x] [YouTuber](https://www.youtube.com/@taku_loves_react) I create videos for fun
 - [x] Award Winning Bathroom singer :laughing: lol
 
 I'm a Software Developer with 4 years of experience and have strong background in 
